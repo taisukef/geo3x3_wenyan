@@ -1,0 +1,9 @@
+{
+  "name": "geo3x3_wenyan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "wenyanizer": "^0.2.10"
+  }
+}
